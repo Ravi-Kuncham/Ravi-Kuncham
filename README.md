@@ -1,8 +1,7 @@
 ### Hi I am Ravi
 🧑🏻‍💻Data Science & AI Professional </br>
-👨🏽‍🎓 Studied [Masters in Data Science](https://www.rmit.edu.au/) at the University Royal Melbourne Institute of Technology, Melbourne, Australia </br>
-💭 Currently learning about [Generative AI](https://www.analyticsvidhya.com/genaipinnacle?utm_source=google&utm_medium=brand_av_pm&utm_content=brand_phrase&utm_campaign=pinnacle_new_search_brand&utm_term=analytics%20vidhya&gad_source=1&gclid=Cj0KCQjwxqayBhDFARIsAANWRnRcaZAU0oLYLO6DAqMrcb8aDuYAXF9y7O4IPWb3fxyGZJneZJkssUYaAoShEALw_wcB)</br>
-
+👨🏽‍🎓 Studied [Masters in Data Science](https://www.myequals.net/sharelink/b9fa4284-cdf0-40e2-9d22-5c5d94d42b18/5a127a97-97a5-49d6-8d48-582a1f974488) at the University Royal Melbourne Institute of Technology, Melbourne, Australia </br>
+💭 Currently building state-of-the-art Generative-AI projects
 ### About Me
 - I have significant experience in utilizing statistical and machine learning techniques to analyse and extract insights from complex data sets.
 - I am Skilled in Python, SQL, AWS and data visualization tools like PowerBI.
